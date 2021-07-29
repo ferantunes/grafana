@@ -12,9 +12,9 @@ Acessar a Página Introdução do Robot Framework 1
 Acessar a Página Introdução do Robot Framework 2
     Dado que estou na home do site
     Quando eu acessar a página de introdução
-    Então devo ver o texto de introdução do Robot Framework
+    Então devo ver o texto de introdução do Robot Framewor
 
 Acessar a Página Introdução do Robot Framework 3
     Dado que estou na home do site
     Quando eu acessar a página de introdução
-    Então devo ver o texto de introdução do Robot Framework
+    Então devo ver o texto de introdução do Robot Framewor
