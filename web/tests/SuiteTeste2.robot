@@ -20,7 +20,7 @@ Acessar a Página Introdução do Robot Framework 3
     [Tags]    grafana4
     Dado que estou na home do site
     Quando eu acessar a página de introdução
-    Então devo ver o texto de introdução do Robot Framework
+    Então devo ver o texto de introdução do Robot Framewor
 
 Acessar a Página Introdução do Robot Framework 4
     [Tags]    grafana4
